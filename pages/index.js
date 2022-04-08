@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome bij mijn website! !" />
         <p className="description">
           Welkom op mijn website! Wil je meer weten? Laat gerust weten! 
         </p>
