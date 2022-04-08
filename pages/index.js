@@ -9,11 +9,10 @@ export default function Home() {
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
       <main>
         <Header title="Welcome bij mijn website! !" />
         <p className="description">
-          Welkom op mijn website! Wil je meer weten? Laat gerust weten! 
+          Welkom op mijn website! Wil je meer weten? Laat gerust weten! <a href="https://www.beste-barbecue.nl/" rel="noreferrer noopener" target="_blank">Barbecue Website</a>
         </p>
       </main>
 
